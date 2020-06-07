@@ -10,7 +10,7 @@ Vue.use(vuetify);
 
 Vue.config.productionTip = false;
 
-axios.defaults.baseURL = "http://www.omdbapi.com/?apikey=e0620bd4&page=1&type=movie&Content-Type=application/json";
+axios.defaults.baseURL="http://www.omdbapi.com/?apikey=e0620bd4&page=1&type=movie&Content-Type=application/json";
 
 new Vue({
   vuetify,
