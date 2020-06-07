@@ -2,7 +2,6 @@
   <v-container>
       <v-dailog max-width="600px">
         <v-card>
-
           <v-card-title>
             <h2>Add a New Movie</h2>
           </v-card-title>
