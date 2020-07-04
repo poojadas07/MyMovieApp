@@ -1,5 +1,9 @@
 # my_vueapp
 
+## Web app with Vue, Vuetify and Axios
+documentation.md
+VueJs.md
+
 ## Project setup
 ```
 npm install
